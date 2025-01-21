@@ -1,6 +1,6 @@
 {
 	"parent": "paint-ink.pose:template/rightleg",
 	"textures": {
-		"skin": "paint-ink.pose:players/default"
+		"skin": "paint-ink.pose:players/alex"
 	}
 }

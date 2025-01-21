@@ -7,42 +7,42 @@
 				"when": "head",
 				"model": {
 					"type": "minecraft:model",
-					"model": "paint-ink.pose:players/default_slim/head"
+					"model": "paint-ink.pose:players/steve/head"
 				}
 			},
 			{
 				"when": "body",
 				"model": {
 					"type": "minecraft:model",
-					"model": "paint-ink.pose:players/default_slim/body"
+					"model": "paint-ink.pose:players/steve/body"
 				}
 			},
 			{
 				"when": "leftarm",
 				"model": {
 					"type": "minecraft:model",
-					"model": "paint-ink.pose:players/default_slim/leftarm"
+					"model": "paint-ink.pose:players/steve/leftarm"
 				}
 			},
 			{
 				"when": "rightarm",
 				"model": {
 					"type": "minecraft:model",
-					"model": "paint-ink.pose:players/default_slim/rightarm"
+					"model": "paint-ink.pose:players/steve/rightarm"
 				}
 			},
 			{
 				"when": "leftleg",
 				"model": {
 					"type": "minecraft:model",
-					"model": "paint-ink.pose:players/default_slim/leftleg"
+					"model": "paint-ink.pose:players/steve/leftleg"
 				}
 			},
 			{
 				"when": "rightleg",
 				"model": {
 					"type": "minecraft:model",
-					"model": "paint-ink.pose:players/default_slim/rightleg"
+					"model": "paint-ink.pose:players/steve/rightleg"
 				}
 			}
 		]

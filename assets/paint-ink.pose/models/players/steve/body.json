@@ -1,6 +1,6 @@
 {
 	"parent": "paint-ink.pose:template/body",
 	"textures": {
-		"skin": "paint-ink.pose:players/default_slim"
+		"skin": "paint-ink.pose:players/steve"
 	}
 }

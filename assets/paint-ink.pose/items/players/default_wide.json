@@ -1,50 +1,50 @@
 {
-    "model": {
-      "property": "custom_model_data",
-      "type": "minecraft:select",
-      "cases": [
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "noah:players/default_wide/head"
-          },
-          "when": "head"
-        },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "noah:players/default_wide/body"
-          },
-          "when": "body"
-        },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "noah:players/default_wide/leftarm"
-          },
-          "when": "leftarm"
-        },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "noah:players/default_wide/rightarm"
-          },
-          "when": "rightarm"
-        },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "noah:players/default_wide/leftleg"
-          },
-          "when": "leftleg"
-        },
-        {
-          "model": {
-            "type": "minecraft:model",
-            "model": "noah:players/default_wide/rightleg"
-          },
-          "when": "rightleg"
-        }
-      ]
-    }
-  }
+	"model": {
+		"property": "custom_model_data",
+		"type": "minecraft:select",
+		"cases": [
+			{
+				"when": "head",
+				"model": {
+					"type": "minecraft:model",
+					"model": "paint-ink.pose:players/default_wide/head"
+				}
+			},
+			{
+				"when": "body",
+				"model": {
+					"type": "minecraft:model",
+					"model": "paint-ink.pose:players/default_wide/body"
+				}
+			},
+			{
+				"when": "leftarm",
+				"model": {
+					"type": "minecraft:model",
+					"model": "paint-ink.pose:players/default_wide/leftarm"
+				}
+			},
+			{
+				"when": "rightarm",
+				"model": {
+					"type": "minecraft:model",
+					"model": "paint-ink.pose:players/default_wide/rightarm"
+				}
+			},
+			{
+				"when": "leftleg",
+				"model": {
+					"type": "minecraft:model",
+					"model": "paint-ink.pose:players/default_wide/leftleg"
+				}
+			},
+			{
+				"when": "rightleg",
+				"model": {
+					"type": "minecraft:model",
+					"model": "paint-ink.pose:players/default_wide/rightleg"
+				}
+			}
+		]
+	}
+}

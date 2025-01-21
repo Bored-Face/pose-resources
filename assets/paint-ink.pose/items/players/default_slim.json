@@ -1,0 +1,50 @@
+{
+    "model": {
+      "property": "custom_model_data",
+      "type": "minecraft:select",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "noah:players/default_slim/head"
+          },
+          "when": "head"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "noah:players/default_slim/body"
+          },
+          "when": "body"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "noah:players/default_slim/leftarm"
+          },
+          "when": "leftarm"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "noah:players/default_slim/rightarm"
+          },
+          "when": "rightarm"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "noah:players/default_slim/leftleg"
+          },
+          "when": "leftleg"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "noah:players/default_slim/rightleg"
+          },
+          "when": "rightleg"
+        }
+      ]
+    }
+  }

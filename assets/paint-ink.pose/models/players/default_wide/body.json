@@ -1,6 +1,0 @@
-{
-	"parent": "paint-ink.pose:template/body",
-	"textures": {
-		"skin": "paint-ink.pose:players/default"
-	}
-}

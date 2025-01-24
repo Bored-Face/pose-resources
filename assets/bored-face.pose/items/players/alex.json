@@ -1,0 +1,50 @@
+{
+	"model": {
+		"property": "custom_model_data",
+		"type": "minecraft:select",
+		"cases": [
+			{
+				"when": "head",
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:players/alex/head"
+				}
+			},
+			{
+				"when": "body",
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:players/alex/body"
+				}
+			},
+			{
+				"when": "leftarm",
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:players/alex/leftarm"
+				}
+			},
+			{
+				"when": "rightarm",
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:players/alex/rightarm"
+				}
+			},
+			{
+				"when": "leftleg",
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:players/alex/leftleg"
+				}
+			},
+			{
+				"when": "rightleg",
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:players/alex/rightleg"
+				}
+			}
+		]
+	}
+}

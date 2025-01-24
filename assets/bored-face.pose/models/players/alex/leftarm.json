@@ -1,0 +1,6 @@
+{
+	"parent": "bored-face.pose:template/leftarm_slim",
+	"textures": {
+		"skin": "bored-face.pose:players/alex"
+	}
+}

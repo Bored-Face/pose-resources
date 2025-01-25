@@ -1,6 +1,6 @@
 {
 	"parent": "bored-face.pose:template/rightleg",
 	"textures": {
-		"skin": "bored-face.pose:players/default"
+		"skin": "bored-face.pose:players/default_wide"
 	}
 }

@@ -1,0 +1,39 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/book_1.png",
+			"height": 172,
+			"ascent": 45,
+			"chars": ["\u0001"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/book_2.png",
+			"height": 172,
+			"ascent": 36,
+			"chars": ["\u0002"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/custom/poses.png",
+			"height": 16,
+			"ascent": 8,
+			"chars": ["\u0004"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/custom/capes.png",
+			"height": 16,
+			"ascent": 8,
+			"chars": ["\u0005"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/custom/skins.png",
+			"height": 16,
+			"ascent": 8,
+			"chars": ["\u0006"]
+		}
+	]
+}

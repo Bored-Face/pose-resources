@@ -1,0 +1,704 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 1,
+			"ascent": -32768,
+			"chars": ["\u0001"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 2,
+			"ascent": -32768,
+			"chars": ["\u0002"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 3,
+			"ascent": -32768,
+			"chars": ["\u0003"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 4,
+			"ascent": -32768,
+			"chars": ["\u0004"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 5,
+			"ascent": -32768,
+			"chars": ["\u0005"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 6,
+			"ascent": -32768,
+			"chars": ["\u0006"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 7,
+			"ascent": -32768,
+			"chars": ["\u0007"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 8,
+			"ascent": -32768,
+			"chars": ["\u0008"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 9,
+			"ascent": -32768,
+			"chars": ["\u0009"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 10,
+			"ascent": -32768,
+			"chars": ["\u000a"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 11,
+			"ascent": -32768,
+			"chars": ["\u000b"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 12,
+			"ascent": -32768,
+			"chars": ["\u000c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 13,
+			"ascent": -32768,
+			"chars": ["\u000d"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 14,
+			"ascent": -32768,
+			"chars": ["\u000e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 15,
+			"ascent": -32768,
+			"chars": ["\u000f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 16,
+			"ascent": -32768,
+			"chars": ["\u0010"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 17,
+			"ascent": -32768,
+			"chars": ["\u0011"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 18,
+			"ascent": -32768,
+			"chars": ["\u0012"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 19,
+			"ascent": -32768,
+			"chars": ["\u0013"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 20,
+			"ascent": -32768,
+			"chars": ["\u0014"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 21,
+			"ascent": -32768,
+			"chars": ["\u0015"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 22,
+			"ascent": -32768,
+			"chars": ["\u0016"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 23,
+			"ascent": -32768,
+			"chars": ["\u0017"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 24,
+			"ascent": -32768,
+			"chars": ["\u0018"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 25,
+			"ascent": -32768,
+			"chars": ["\u0019"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 26,
+			"ascent": -32768,
+			"chars": ["\u001a"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 27,
+			"ascent": -32768,
+			"chars": ["\u001b"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 28,
+			"ascent": -32768,
+			"chars": ["\u001c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 29,
+			"ascent": -32768,
+			"chars": ["\u001d"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 30,
+			"ascent": -32768,
+			"chars": ["\u001e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 31,
+			"ascent": -32768,
+			"chars": ["\u001f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 32,
+			"ascent": -32768,
+			"chars": ["\u0020"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 33,
+			"ascent": -32768,
+			"chars": ["\u0021"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 34,
+			"ascent": -32768,
+			"chars": ["\u0022"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 35,
+			"ascent": -32768,
+			"chars": ["\u0023"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 36,
+			"ascent": -32768,
+			"chars": ["\u0024"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 37,
+			"ascent": -32768,
+			"chars": ["\u0025"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 38,
+			"ascent": -32768,
+			"chars": ["\u0026"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 39,
+			"ascent": -32768,
+			"chars": ["\u0027"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 40,
+			"ascent": -32768,
+			"chars": ["\u0028"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 41,
+			"ascent": -32768,
+			"chars": ["\u0029"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 42,
+			"ascent": -32768,
+			"chars": ["\u002a"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 43,
+			"ascent": -32768,
+			"chars": ["\u002b"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 44,
+			"ascent": -32768,
+			"chars": ["\u002c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 45,
+			"ascent": -32768,
+			"chars": ["\u002d"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 46,
+			"ascent": -32768,
+			"chars": ["\u002e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 47,
+			"ascent": -32768,
+			"chars": ["\u002f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 48,
+			"ascent": -32768,
+			"chars": ["\u0030"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 49,
+			"ascent": -32768,
+			"chars": ["\u0031"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 50,
+			"ascent": -32768,
+			"chars": ["\u0032"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 51,
+			"ascent": -32768,
+			"chars": ["\u0033"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 52,
+			"ascent": -32768,
+			"chars": ["\u0034"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 53,
+			"ascent": -32768,
+			"chars": ["\u0035"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 54,
+			"ascent": -32768,
+			"chars": ["\u0036"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 55,
+			"ascent": -32768,
+			"chars": ["\u0037"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 56,
+			"ascent": -32768,
+			"chars": ["\u0038"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 57,
+			"ascent": -32768,
+			"chars": ["\u0039"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 58,
+			"ascent": -32768,
+			"chars": ["\u003a"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 59,
+			"ascent": -32768,
+			"chars": ["\u003b"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 60,
+			"ascent": -32768,
+			"chars": ["\u003c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 61,
+			"ascent": -32768,
+			"chars": ["\u003d"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 62,
+			"ascent": -32768,
+			"chars": ["\u003e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 63,
+			"ascent": -32768,
+			"chars": ["\u003f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 64,
+			"ascent": -32768,
+			"chars": ["\u0040"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 65,
+			"ascent": -32768,
+			"chars": ["\u0041"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 66,
+			"ascent": -32768,
+			"chars": ["\u0042"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 67,
+			"ascent": -32768,
+			"chars": ["\u0043"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 68,
+			"ascent": -32768,
+			"chars": ["\u0044"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 69,
+			"ascent": -32768,
+			"chars": ["\u0045"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 70,
+			"ascent": -32768,
+			"chars": ["\u0046"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 71,
+			"ascent": -32768,
+			"chars": ["\u0047"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 72,
+			"ascent": -32768,
+			"chars": ["\u0048"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 73,
+			"ascent": -32768,
+			"chars": ["\u0049"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 74,
+			"ascent": -32768,
+			"chars": ["\u004a"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 75,
+			"ascent": -32768,
+			"chars": ["\u004b"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 76,
+			"ascent": -32768,
+			"chars": ["\u004c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 77,
+			"ascent": -32768,
+			"chars": ["\u004d"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 78,
+			"ascent": -32768,
+			"chars": ["\u004e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 79,
+			"ascent": -32768,
+			"chars": ["\u004f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 80,
+			"ascent": -32768,
+			"chars": ["\u0050"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 81,
+			"ascent": -32768,
+			"chars": ["\u0051"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 82,
+			"ascent": -32768,
+			"chars": ["\u0052"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 83,
+			"ascent": -32768,
+			"chars": ["\u0053"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 84,
+			"ascent": -32768,
+			"chars": ["\u0054"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 85,
+			"ascent": -32768,
+			"chars": ["\u0055"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 86,
+			"ascent": -32768,
+			"chars": ["\u0056"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 87,
+			"ascent": -32768,
+			"chars": ["\u0057"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 88,
+			"ascent": -32768,
+			"chars": ["\u0058"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 89,
+			"ascent": -32768,
+			"chars": ["\u0059"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 90,
+			"ascent": -32768,
+			"chars": ["\u005a"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 91,
+			"ascent": -32768,
+			"chars": ["\u005b"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 92,
+			"ascent": -32768,
+			"chars": ["\u005c"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 93,
+			"ascent": -32768,
+			"chars": ["\u005d"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 94,
+			"ascent": -32768,
+			"chars": ["\u005e"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 95,
+			"ascent": -32768,
+			"chars": ["\u005f"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 96,
+			"ascent": -32768,
+			"chars": ["\u0060"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 97,
+			"ascent": -32768,
+			"chars": ["\u0061"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 98,
+			"ascent": -32768,
+			"chars": ["\u0062"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 99,
+			"ascent": -32768,
+			"chars": ["\u0063"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/pixel.png",
+			"height": 100,
+			"ascent": -32768,
+			"chars": ["\u0064"]
+		}
+	]
+}

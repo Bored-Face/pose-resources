@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"cape": "#cape",
-		"particle": "bored-face.pose:players/capes/vanilla"
+		"particle": "#cape"
 	},
 	"elements": [
 		{

@@ -4,7 +4,7 @@
 			"type": "bitmap",
 			"file": "bored-face.pose:gui/book_1.png",
 			"height": 172,
-			"ascent": 45,
+			"ascent": 36,
 			"chars": ["\u0001"]
 		},
 		{

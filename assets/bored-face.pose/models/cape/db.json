@@ -1,0 +1,6 @@
+{
+	"parent": "bored-face.pose:template/cape",
+	"textures": {
+		"cape": "bored-face.pose:cape/db"
+	}
+}

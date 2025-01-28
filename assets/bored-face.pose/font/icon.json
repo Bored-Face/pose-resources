@@ -3,14 +3,14 @@
 		{
 			"type": "bitmap",
 			"file": "bored-face.pose:gui/book_1.png",
-			"height": 172,
+			"height": 180,
 			"ascent": 36,
 			"chars": ["\u0001"]
 		},
 		{
 			"type": "bitmap",
 			"file": "bored-face.pose:gui/book_2.png",
-			"height": 172,
+			"height": 180,
 			"ascent": 36,
 			"chars": ["\u0002"]
 		},

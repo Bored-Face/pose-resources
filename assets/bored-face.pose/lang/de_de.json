@@ -76,7 +76,10 @@
 	"resource.bored-face.pose.skin.steve.name": "Steve",
 	"resource.bored-face.pose.skin.steve.description": "Der standard Steve-Skin (breit).",
 
+	"gui.bored-face.pose.smartphone.player.nav_bar": "Springe zur Staturerstellung",
 	"gui.bored-face.pose.smartphone.player.title": "§nNeue Statur erstellen",
+	"gui.bored-face.pose.smartphone.skin.nav_bar": "Springe zum Skinwechsler",
 	"gui.bored-face.pose.smartphone.skin.title": "§nStaturskin ändern",
+	"gui.bored-face.pose.smartphone.cape.nav_bar": "Springe zum Umhangwechsler",
 	"gui.bored-face.pose.smartphone.cape.title": "§nStaturumhang ändern"
 }

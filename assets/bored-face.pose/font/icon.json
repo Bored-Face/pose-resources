@@ -16,24 +16,31 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "bored-face.pose:gui/custom/poses.png",
-			"height": 16,
-			"ascent": 8,
-			"chars": ["\u0004"]
+			"file": "bored-face.pose:gui/title.png",
+			"height": 24,
+			"ascent": 16,
+			"chars": ["\u0003\u0004"]
 		},
 		{
 			"type": "bitmap",
-			"file": "bored-face.pose:gui/custom/capes.png",
+			"file": "bored-face.pose:gui/custom/poses.png",
 			"height": 16,
 			"ascent": 8,
 			"chars": ["\u0005"]
 		},
 		{
 			"type": "bitmap",
-			"file": "bored-face.pose:gui/custom/skins.png",
+			"file": "bored-face.pose:gui/custom/capes.png",
 			"height": 16,
 			"ascent": 8,
 			"chars": ["\u0006"]
+		},
+		{
+			"type": "bitmap",
+			"file": "bored-face.pose:gui/custom/skins.png",
+			"height": 16,
+			"ascent": 8,
+			"chars": ["\u0007"]
 		}
 	]
 }

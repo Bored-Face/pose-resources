@@ -76,7 +76,10 @@
 	"resource.bored-face.pose.skin.steve.name": "Steve",
 	"resource.bored-face.pose.skin.steve.description": "The default Steve skin (wide).",
 
+	"gui.bored-face.pose.smartphone.player.nav_bar": "Jump to statue creation",
 	"gui.bored-face.pose.smartphone.player.title": "§nCreate new statue",
+	"gui.bored-face.pose.smartphone.skin.nav_bar": "Jump to skin change",
 	"gui.bored-face.pose.smartphone.skin.title": "§nChange statue skin",
+	"gui.bored-face.pose.smartphone.cape.nav_bar": "Jump to cape change",
 	"gui.bored-face.pose.smartphone.cape.title": "§nChange statue cape"
 }

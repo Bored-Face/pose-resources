@@ -226,6 +226,13 @@
 					"model": "bored-face.pose:cape/vanilla"
 				},
 				"when": "vanilla"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "bored-face.pose:cape/bored"
+				},
+				"when": "bored"
 			}
 		]
 	}

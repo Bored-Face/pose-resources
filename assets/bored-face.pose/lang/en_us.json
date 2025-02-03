@@ -66,6 +66,18 @@
 
 	"resource.bored-face.pose.player.normal.name": "Normal",
 	"resource.bored-face.pose.player.normal.description": "A normal standing pose.",
+	"resource.bored-face.pose.player.2d.name": "Card-Bored™",
+	"resource.bored-face.pose.player.2d.description": "A 2D cardboard display",
+	"resource.bored-face.pose.player.handstand.name": "Handstand",
+	"resource.bored-face.pose.player.handstand.description": "Upside down. 🙃",
+	"resource.bored-face.pose.player.happy.name": "Happy",
+	"resource.bored-face.pose.player.happy.description": "Rise the hands in the air.",
+	"resource.bored-face.pose.player.high_five.name": "High Five",
+	"resource.bored-face.pose.player.high_five.description": "Steve & Alex give each other a high five.",
+	"resource.bored-face.pose.player.run.name": "Running",
+	"resource.bored-face.pose.player.run.description": "A running pose.",
+	"resource.bored-face.pose.player.sneak.name": "Sneaking",
+	"resource.bored-face.pose.player.sneak.description": "A sneaking pose.",
 
 	"resource.bored-face.pose.skin.alex.name": "Alex",
 	"resource.bored-face.pose.skin.alex.description": "The default Alex skin (slim).",

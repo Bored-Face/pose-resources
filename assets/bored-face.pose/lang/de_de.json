@@ -66,6 +66,18 @@
 
 	"resource.bored-face.pose.player.normal.name": "Normal",
 	"resource.bored-face.pose.player.normal.description": "Eine normale Stehposition.",
+	"resource.bored-face.pose.player.2d.name": "2D Pappaufsteller",
+	"resource.bored-face.pose.player.2d.description": "Ein pappiger Pappaufsteller.",
+	"resource.bored-face.pose.player.handstand.name": "Handstand",
+	"resource.bored-face.pose.player.handstand.description": "Ein Pose auf dem Kopf 🙃.",
+	"resource.bored-face.pose.player.happy.name": "Fröhlich",
+	"resource.bored-face.pose.player.happy.description": "Hände in die Luft.",
+	"resource.bored-face.pose.player.high_five.name": "High Five",
+	"resource.bored-face.pose.player.high_five.description": "Steve & Alex geben sich ein High Five.",
+	"resource.bored-face.pose.player.run.name": "Laufen",
+	"resource.bored-face.pose.player.run.description": "Eine laufende Pose.",
+	"resource.bored-face.pose.player.sneak.name": "Schleichen",
+	"resource.bored-face.pose.player.sneak.description": "Eine schleichende Pose.",
 
 	"resource.bored-face.pose.skin.alex.name": "Alex",
 	"resource.bored-face.pose.skin.alex.description": "Der standard Alex-Skin (schlank).",

@@ -66,8 +66,8 @@
 
 	"resource.bored-face.pose.player.normal.name": "Normal",
 	"resource.bored-face.pose.player.normal.description": "A normal standing pose.",
-	"resource.bored-face.pose.player.2d.name": "Card-Bored™",
-	"resource.bored-face.pose.player.2d.description": "A 2D cardboard display",
+	"resource.bored-face.pose.player.cardboard.name": "Card-Bored™",
+	"resource.bored-face.pose.player.cardboard.description": "A 2D cardboard display",
 	"resource.bored-face.pose.player.handstand.name": "Handstand",
 	"resource.bored-face.pose.player.handstand.description": "Upside down. 🙃",
 	"resource.bored-face.pose.player.happy.name": "Happy",

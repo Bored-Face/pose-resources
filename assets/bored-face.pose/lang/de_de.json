@@ -66,8 +66,8 @@
 
 	"resource.bored-face.pose.player.normal.name": "Normal",
 	"resource.bored-face.pose.player.normal.description": "Eine normale Stehposition.",
-	"resource.bored-face.pose.player.2d.name": "2D Pappaufsteller",
-	"resource.bored-face.pose.player.2d.description": "Ein pappiger Pappaufsteller.",
+	"resource.bored-face.pose.player.cardboard.name": "2D Pappaufsteller",
+	"resource.bored-face.pose.player.cardboard.description": "Ein pappiger Pappaufsteller.",
 	"resource.bored-face.pose.player.handstand.name": "Handstand",
 	"resource.bored-face.pose.player.handstand.description": "Ein Pose auf dem Kopf 🙃.",
 	"resource.bored-face.pose.player.happy.name": "Fröhlich",

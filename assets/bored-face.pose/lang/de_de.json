@@ -1,4 +1,10 @@
 {
+	"message.bored-face.pose.about.download": "Auf Modrinth: %s, %s",
+	"message.bored-face.pose.about.issues": "Fehler melden: %s, %s",
+	"message.bored-face.pose.about.sources": "Quellcode anzeigen: %s, %s",
+	"message.bored-face.pose.datapack": "Datenpaket",
+	"message.bored-face.pose.resourcepack": "Ressourcenpaket",
+
 	"resource.bored-face.pose.cape.15th_anniversary.name": "15. Jubiläum",
 	"resource.bored-face.pose.cape.15th_anniversary.description": "Dieser Umhang war Teil des Minecraft-Events zum 15-jährigen Jubiläum und wurde am 17. Mai 2024 veröffentlicht. Bis zum 21. Juni 2024 konnte er durch Klicken einer Schaltfläche auf der Seite zum 15-jährigen Jubiläum auf minecraft.net angefordert werden.\n\nAuf der Hauptseite von minecraft.net wird er auch als \"Grusel-Umhang\" (engl. \"Creepy Cape\") bezeichnet.",
 	"resource.bored-face.pose.cape.birthday.name": "Geburtstag",

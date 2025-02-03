@@ -1,4 +1,10 @@
 {
+	"message.bored-face.pose.about.download": "Get on Modrinth: %s, %s",
+	"message.bored-face.pose.about.issues": "Report issues: %s, %s",
+	"message.bored-face.pose.about.sources": "View sources: %s, %s",
+	"message.bored-face.pose.datapack": "Datapack",
+	"message.bored-face.pose.resourcepack": "Resourcepack",
+
 	"resource.bored-face.pose.cape.15th_anniversary.name": "15th Anniversary",
 	"resource.bored-face.pose.cape.15th_anniversary.description": "Given to players who clicked a button on the 15 Year anniversary page on minecraft.net from May 17, 2024 to June 21, 2024. The API endpoint allowed players to redeem it after June 21 which was patched four days later.\nIt was also referred to as the \"Creepy Cape\" on the main page of minecraft.net.",
 	"resource.bored-face.pose.cape.birthday.name": "Birthday",

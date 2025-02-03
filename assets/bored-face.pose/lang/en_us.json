@@ -9,6 +9,8 @@
 	"resource.bored-face.pose.cape.15th_anniversary.description": "Given to players who clicked a button on the 15 Year anniversary page on minecraft.net from May 17, 2024 to June 21, 2024. The API endpoint allowed players to redeem it after June 21 which was patched four days later.\nIt was also referred to as the \"Creepy Cape\" on the main page of minecraft.net.",
 	"resource.bored-face.pose.cape.birthday.name": "Birthday",
 	"resource.bored-face.pose.cape.birthday.description": "Given to Mojang Studios employee Gr8Bizzo, supposedly as a birthday present.",
+	"resource.bored-face.pose.cape.bored.name": "Bored",
+	"resource.bored-face.pose.cape.bored.description": "This is our own cape.",
 	"resource.bored-face.pose.cape.cherry_blossom.name": "Cherry Blossom",
 	"resource.bored-face.pose.cape.cherry_blossom.description": "This cape was given out to everyone who voted on the 2023 Mob Vote through minecraft.net, the Minecraft Launcher or the 2023 Mob Vote Event server on Bedrock Edition.The cape was slowly rolled out to players starting from October 26, 2023. Most players who were eligible for the cape have received it.The API name was changed from \"Cherry Blossom Cape\" to \"Cherry Blossom\" on October 30, 2023.",
 	"resource.bored-face.pose.cape.cobalt.name": "Cobalt",

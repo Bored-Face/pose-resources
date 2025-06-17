@@ -9,6 +9,10 @@
 			"type": "directory",
 			"source": "players",
 			"prefix": "players/"
+		},
+		{
+			"type": "single",
+			"resource": "bored-face.pose:gui/custom/update_old_cape"
 		}
 	]
 }

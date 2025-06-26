@@ -3,6 +3,14 @@
 		"skin": "#skin",
 		"particle": "#skin"
 	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, 179, 0],
+			"translation": [-12.5, -25, 0],
+			"scale": [4, 4, 0.001]
+		}
+	},
 	"elements": [
 		{
 			"from": [4, 8, 4],

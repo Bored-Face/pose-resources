@@ -3,6 +3,9 @@
 	"message.bored-face.pose.about.issues": "Fehler melden: %s, %s",
 	"message.bored-face.pose.about.sources": "Quellcode anzeigen: %s, %s",
 	"message.bored-face.pose.datapack": "Datenpaket",
+	"message.bored-face.pose.registry_loaded": "Register ‚%s‘ geladen!",
+	"message.bored-face.pose.registry_reloading": "Register ‚%s‘ wird neu geladen...",
+	"message.bored-face.pose.registry_removed": "Register ‚%s‘ entfernt!",
 	"message.bored-face.pose.resourcepack": "Ressourcenpaket",
 
 	"resource.bored-face.pose.cape.15th_anniversary.name": "15. Jubiläum",

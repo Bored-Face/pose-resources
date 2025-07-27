@@ -3,6 +3,9 @@
 	"message.bored-face.pose.about.issues": "Report issues: %s, %s",
 	"message.bored-face.pose.about.sources": "View sources: %s, %s",
 	"message.bored-face.pose.datapack": "Datapack",
+	"message.bored-face.pose.registry_loaded": "Registry '%s' loaded!",
+	"message.bored-face.pose.registry_reloading": "Reloading registry '%s'...",
+	"message.bored-face.pose.registry_removed": "Registry '%s' removed!",
 	"message.bored-face.pose.resourcepack": "Resourcepack",
 
 	"resource.bored-face.pose.cape.15th_anniversary.name": "15th Anniversary",
